@@ -25,6 +25,8 @@
     {"id":{"name":"Obj_title","path":"objects/Obj_title/Obj_title.yy",},},
     {"id":{"name":"Object_Bullet","path":"objects/Object_Bullet/Object_Bullet.yy",},},
     {"id":{"name":"Object_player","path":"objects/Object_player/Object_player.yy",},},
+    {"id":{"name":"Object_spawner","path":"objects/Object_spawner/Object_spawner.yy",},},
+    {"id":{"name":"ObjectEnemySpawn","path":"objects/ObjectEnemySpawn/ObjectEnemySpawn.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_titles","path":"rooms/rm_titles/rm_titles.yy",},},
     {"id":{"name":"snd_death","path":"sounds/snd_death/snd_death.yy",},},
